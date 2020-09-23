@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316182875240",
+    "firebase_url": "https://mariaoliveiradr4at.firebaseio.com",
+    "project_id": "mariaoliveiradr4at",
+    "storage_bucket": "mariaoliveiradr4at.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316182875240:android:6611037a397ebe34fdbfdd",
+        "android_client_info": {
+          "package_name": "com.example.maria_oliveira_dr4_at"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316182875240-s4e9g8sgi265jruoi3go2fbqn3npvd2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maria_oliveira_dr4_at",
+            "certificate_hash": "06650689bebbec0c9e3366fe6b7a23d690793e01"
+          }
+        },
+        {
+          "client_id": "316182875240-437lamdnudlhg9cp444nbhbrkl29khj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsl9HzGLS4ieD4rpo5l-Buzbi1ZmEjMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316182875240-437lamdnudlhg9cp444nbhbrkl29khj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
